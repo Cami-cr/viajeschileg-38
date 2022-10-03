@@ -16,3 +16,9 @@ body {
   display: flex;
   justify-content: space-around;
 }
+
+.nav-black {
+  background-color: teal;
+  opacity: 0.9;
+  color: white;
+}
