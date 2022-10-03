@@ -11,3 +11,8 @@ body {
     display: none;
   }
 }
+
+.footer-wrap {
+  display: flex;
+  justify-content: space-around;
+}
